@@ -1,7 +1,5 @@
 # 🏢 Integrated Computer System Inc.
 
-## 📚 AppDev Central
-
 🔗 **Documentation:**  
 Comprehensive guide for using and navigating AppDev Central.  
 https://appdev-central-documentation.vercel.app
